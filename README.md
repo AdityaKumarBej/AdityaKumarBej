@@ -1,29 +1,19 @@
-# Hey, I am Asmit! Great to see you here! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+# Hey, I am Aditya! Great to see you here! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
 
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-I am Asmit Malakannawar, currently pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). I am a Tech enthusiast, designer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at
-my desk sketching stuff.
+I am Aditya Kumar Bej, currently working as a Software Developer in Blockchain Technologies at [Zensar Technologies]. I am a Tech enthusiast, designer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me involved in various debating conferences or competitive gaming.
 
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/asmit-malakannawar/">
+	<a href="https://www.linkedin.com/in/aditya-bej-029381110/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/asmitmalakannawar/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-	</a>
-	<a href="https://dev.to/asmit2952">
-		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-	</a>
-  <a href="https://asmit2952.github.io/">
+  <a href="https://adityabej.github.io/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-  <a href="mailto:asmitbm2952002@gmail.com">
+  <a href="mailto:adityabej1997@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -48,10 +38,10 @@ Find out more about me & feel free to connect with me here:
 
 ### 💻 Libraries & Framework
 
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -76,17 +66,6 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
 </p>
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2021: My Experience](https://dev.to/asmit2952/hacktoberfest-2021-my-experience-3k5l)
-- [Make your own color palette for next project!](https://dev.to/asmit2952/make-your-own-color-palette-for-next-project-28pe)
-- [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
-- [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
-- [Getting started with Datree](https://dev.to/asmit2952/getting-started-with-datree-581)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
