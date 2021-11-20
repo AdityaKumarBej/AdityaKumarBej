@@ -68,5 +68,5 @@ Find out more about me & feel free to connect with me here:
 
 
 <p align="center">
-   <img src="https://github.com/AdityaKumarBej/AdityaKumarBej/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/AdityaKumarBej/AdityaKumarBej/blob/main/github-user-contribution.svg" alt="snake">
 </p>
