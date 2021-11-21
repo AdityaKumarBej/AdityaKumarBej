@@ -20,7 +20,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Asmit's GitHub activity graph](https://rocky-plateau-12890.herokuapp.com/graph?username=AdityaKumarBej&hide_border=true&theme=redical)
+![Aditya's GitHub activity graph](https://rocky-plateau-12890.herokuapp.com/graph?username=AdityaKumarBej&hide_border=true&theme=redical)
 
 ---
 
