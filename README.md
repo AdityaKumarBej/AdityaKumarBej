@@ -1,4 +1,4 @@
-# Hey, I am Aditya! Great to see you here! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+# Hey, I am Aditya! Great to see you here! <img src="https://github.com/AdityaKumarBej/AdityaKumarBej/blob/main/src/wave.gif" width="30px">
 
 <img src="https://github.com/AdityaKumarBej/AdityaKumarBej/blob/main/src/header_.png">
 
