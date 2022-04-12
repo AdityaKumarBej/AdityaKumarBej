@@ -2,7 +2,7 @@
 
 <img src="https://github.com/AdityaKumarBej/AdityaKumarBej/blob/main/src/header_.png">
 
-I am Aditya Kumar Bej, currently working as a Software Developer in Blockchain Technologies at [Zensar Technologies]. I am a Tech enthusiast, designer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me involved in various debating conferences or competitive gaming.
+I am Aditya Kumar Bej, currently working as a Software Developer in Blockchain Solutions. I am a Tech enthusiast, designer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me involved in various debating conferences or competitive gaming.
 
 Find out more about me & feel free to connect with me here:
 
