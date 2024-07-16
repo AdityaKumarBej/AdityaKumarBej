@@ -20,10 +20,6 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Aditya's GitHub activity graph](https://rocky-plateau-12890.herokuapp.com/graph?username=AdityaKumarBej&hide_border=true&theme=redical)
-
----
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
